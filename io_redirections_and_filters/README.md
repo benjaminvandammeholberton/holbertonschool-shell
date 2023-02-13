@@ -1,1 +1,1 @@
-This is about learning shell : io redirections and filters
+About Shell Redirection
