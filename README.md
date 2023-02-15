@@ -1,1 +1,1 @@
-This repository is about learning Shell
+This directory is about learning the basics of Shell
